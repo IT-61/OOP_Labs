@@ -5,3 +5,4 @@ Add links to your github repo with OOP lab.
 Савін - https://github.com/NykolaySavin/PatternStudy-CompanyStruct
 
 Бондар - https://github.com/BondarOleg98/Console_game
+Венчик - https://github.com/dzeko14/ZooApp - Варіант 3(Звіринець)
